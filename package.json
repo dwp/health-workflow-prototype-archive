@@ -15,7 +15,7 @@
     "@x-govuk/govuk-prototype-components": "2.2.2",
     "@x-govuk/govuk-prototype-filters": "2.2.0",
     "govuk-frontend": "4.8.0",
-    "govuk-prototype-kit": "13.20.2",
+    "govuk-prototype-kit": "13.20.4",
     "hmrc-frontend": "6.117.0",
     "qs": "6.16.0",
     "uuid": "^9.0.0"
